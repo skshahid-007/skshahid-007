@@ -1,5 +1,5 @@
 # 💫 About Me:
-Shahid Shaikh  <br>Full Stack Developer specializing in Next.js<br><br>Tech Stack:<br> Frontend: Next.js, React, Tailwind CSS  <br> Backend: Node.js, API Routes, Server Actions  <br> Languages: JavaScript, TypeScript  <br>Databases :Postgresql ,MySQL<br>Cloud & DevOps : git/GitHub
+Shaikh Shaikh  <br>Full Stack Developer specializing in Next.js<br><br>Tech Stack:<br> Frontend: Next.js, React, Tailwind CSS  <br> Backend: Node.js, API Routes, Server Actions  <br> Languages: JavaScript, TypeScript  <br>Databases :Postgresql ,MySQL<br>Cloud & DevOps : git/GitHub
 
 
 ## 🌐 Socials:
